@@ -1,4 +1,4 @@
-# naural-neutowk-from-scratch
+# naural-network-from-scratch
 
 This project aims to build a simple neural network from scratch in python just
 for fun.
