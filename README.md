@@ -11,7 +11,7 @@ the required dependencies with `poetry`:
 poetry install
 ```
 
-If you are on Nix, you can use a shell encironment with:
+If you are on Nix, you can use a shell environment with:
 ```bash
 nix-shell
 ```
